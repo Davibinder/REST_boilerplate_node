@@ -1,7 +1,7 @@
 {
   "name": "accessgame",
   "version": "1.0.0",
-  "description": "Access Game REST server",
+  "description": "REST server",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://Singh_Davinder@bitbucket.org/alexandr_dolgikh/belka_backend.git"
+    "url": ""
   },
   "author": "Davinder Singh",
   "license": "UNLICENSED",
   "bugs": {
-    "url": "https://Singh_Davinder@bitbucket.org/alexandr_dolgikh/belka_backend/issues"
+    "url": ""
   },
-  "homepage": "https://Singh_Davinder@bitbucket.org/alexandr_dolgikh/belka_backend#readme",
+  "homepage": "",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "bluebird": "^3.7.1",
