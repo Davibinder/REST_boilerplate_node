@@ -1,4 +1,4 @@
-# NodeJSn simple REST boilerplate
+# NodeJS simple REST boilerplate
 
 A very simple starter boilerplate to start with Node+Express+Mongose+Passport for RESTfull end points.
 
